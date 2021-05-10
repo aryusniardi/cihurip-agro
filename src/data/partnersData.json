@@ -1,0 +1,16 @@
+[
+    {
+        "img": "../assets/images/Arkana.png",
+        "alt": "Arkana Eco, Coffee & Eatery",
+        "name": "Arkana Eco, Coffee & Eatery",
+        "url": "https://www.instagram.com/arkana.eco/",
+        "description": "lorem"
+    },
+    {
+        "img": "../assets/images/Mojopahit.png",
+        "alt": "Mojopahit, Angkringan & Coffee",
+        "name": "Mojopahit, Angkringan & Coffee",
+        "description": "lorem",
+        "url": "https://www.instagram.com/mojopahit.angkringan/"
+    }
+]
